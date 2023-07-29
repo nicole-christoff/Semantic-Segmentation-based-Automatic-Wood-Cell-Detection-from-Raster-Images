@@ -1,0 +1,79 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cell",
+      "points": [
+        [
+          5.049999999999997,
+          26.950000000000003
+        ],
+        [
+          3.8500000000000014,
+          22.950000000000003
+        ],
+        [
+          3.049999999999997,
+          18.050000000000004
+        ],
+        [
+          5.149999999999999,
+          11.950000000000003
+        ],
+        [
+          10.149999999999999,
+          6.450000000000003
+        ],
+        [
+          16.249999999999993,
+          4.650000000000002
+        ],
+        [
+          21.35,
+          4.350000000000001
+        ],
+        [
+          29.15,
+          7.450000000000003
+        ],
+        [
+          32.35,
+          12.75
+        ],
+        [
+          33.35,
+          20.25
+        ],
+        [
+          30.449999999999996,
+          26.85
+        ],
+        [
+          25.85,
+          32.050000000000004
+        ],
+        [
+          19.249999999999993,
+          33.75
+        ],
+        [
+          13.350000000000001,
+          33.25
+        ],
+        [
+          7.949999999999996,
+          31.550000000000004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Tectona grandis HP_7.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAmACUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsbu5MHg3VIbd5BcPPJC7dhI3T8APwqxFZXV74nWSwVm0+309bbz36Fx2HrxnNV/szXUUOnCMLNeXnmuqtnESIvI/3j3rtpZIdG0lgpSNYYWIz04GSa59XotkdDaXmcHY6Ld69p82qWs6PC8n7mJT91onI/PIIq+0a6l4n238TWhSEs8LdZm65B6YHoKf8OpltvANl5bSiMS3DbpFwTukZs4wOMmt/ULKPWLSWCRT5nlkxyr1U49aTTSu3cpPWzVjhJLiG+0+1uJI2EjmQ7Qufl3fKfbIoq9Yy668s0NpZxOYFSOUkAEMFxg/gB+dFFl3Ksy1oUkEXjrUL+a4ykunw8NwsRUfNgfl+VK2nXfje9a7unktNJjbykgB+aZQctn2PT/69VbkCe3/tC6CtFa3z2txJHwfK65rstO1GwubKP7C6CBVwijsK0hCU00tF1MpTjB36ls2tsIfJSMJGF2gLxgdsVG88WnxrEiszKhKRqMs2O+e1SNNGDy4GeB2zXPa3r8RD2VkQ02wpPcLjECkcjP8AewK29nGCukZqXO7bmXBqtroE1zc3108cuqS/aykByq8Bf5KKKyoxNc6dZO9mGlMQOP7qfwDn2Gfxorl53/TOixpSzQ2ujeJWMO4WV9JKFzw+VHBrDvNN8rV47azuZreORYS4RscOuSBRRRUk4NOOgt0at/FIlzDCZpDbeR5hTeQcLnj8e9La2sdnp1mMZjlYllUfeyT1NFFT7SU7czHFJDQU2srJlY5GjXHXjBP4c8UUUU7ID//Z",
+  "imageHeight": 38,
+  "imageWidth": 37
+}
